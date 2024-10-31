@@ -9,8 +9,8 @@
         <?php include 'header.html';?>
 
             <section class="banner">
-                <h3>Page Content</h3>
-                
+                <h3>Welcome Jeff!</h3>
+
             </section>
 
         <?php include 'footer.html';?>
