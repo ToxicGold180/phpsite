@@ -8,7 +8,10 @@
         
         <?php include 'header.html';?>
 
-        
+            <section class="banner">
+                <h3>Page Content</h3>
+                
+            </section>
 
         <?php include 'footer.html';?>
 
